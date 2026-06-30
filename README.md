@@ -10,11 +10,6 @@ High school student interested in Economics, Public Policy, and Computer Science
 - Public Policy Analysis
 - Civic Leadership
 - Youth Activism
-  
-## Projects
-
-- Macroeconomic forecasting research
-- Project Euler
 
 ## Languages
 
