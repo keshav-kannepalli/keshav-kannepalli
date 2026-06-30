@@ -1,6 +1,6 @@
 # Hi, I'm Keshav Kannepalli
 
-High school student interested in Economics, Public Policy, and Computer Science
+I am a high school student interested in Economics, Public Policy, and Computer Science. Below is a small selection of code I have written across multiple coding languages.
 
 ## Interests
 
