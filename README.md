@@ -19,3 +19,6 @@ High school student interested in Economics, Public Policy, and Computer Science
 - HTML/CSS
 - R
 - SQL
+
+## What's Coming Next?
+- I'm currently working on an original research paper that evaluates the performance of various GBR models when forecasting macroeconomic targets. The code for the models will be out soon.
